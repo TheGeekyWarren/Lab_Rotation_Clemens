@@ -1,4 +1,6 @@
 # Lab_Rotation_Clemens
 
+The scripts in this repository were written towards the project of the lab rotation titled "Flirt like their brothers? - Retracing phylogeny from mating calls preferences of crickets"
+
 Abstract - The ‘jungle ambience’ we relish today is a complex choir of passion comprising tens of thousands of participating species. Each of these species evolved to stand out by developing a unique song, their mating call, that is a signature of that species. Thus, each species evolved an auditory neural circuit to accurately recognize the mating calls of conspecific members. As a first step towards unravelling the mechanisms behind the evolution of these circuits, we attempt to retrace the phylogeny from the mating call preferences of female crickets. This study focuses on the short timescale of the song structure, owing to the magnitude of data available. The experimental data from eighteen species are filtered and plotted onto pulse-pause fields for each species. Subsequently, a generalized computational model of song recognition is fitted to these empirically derived plots to reduce the experimental data to quantifiable and comparable parameters. These parameters are used to construct a phylogeny which is then compared to the true phylogeny of crickets with the aim of discerning the extent to which phylogeny shapes behaviour.
 
